@@ -1,4 +1,5 @@
 # cs50-scratch-maze
+<img width="1067" height="801" alt="jogo" src="https://github.com/user-attachments/assets/080fa5a4-e307-408c-aca4-7ccbf9069cf0" />
 Projeto 0 do CS50x - Jogo do Labirinto em Scratch
 # 🧩 Jogo do Labirinto - CS50x Project 0
 
